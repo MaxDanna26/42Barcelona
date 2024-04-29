@@ -24,6 +24,6 @@ Si eres estudiante de la Escuela 42 Barcelona y has realizado ejercicios o proye
 
 ## Contacto
 
-¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes encontrarme en GitHub o enviarme un correo electrónico a [tu correo electrónico].
+¡Gracias por visitar mi repositorio! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes encontrarme en GitHub o enviarme un correo electrónico a maximilianodanna@hotmail.com
 
-¡Espero que encuentres útiles y educativos los ejercicios que he compartido aquí!
+< Remember, Don't Copy, LEARN >
