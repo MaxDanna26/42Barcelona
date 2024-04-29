@@ -10,9 +10,9 @@ En este repositorio, compartiré los ejercicios y proyectos que he completado du
 
 La Escuela 42 Barcelona es una institución educativa revolucionaria que ofrece una experiencia de aprendizaje única en el campo de la programación. Utilizando un enfoque de aprendizaje basado en proyectos y sin maestros tradicionales, la Escuela 42 fomenta la autonomía, la creatividad y el trabajo en equipo entre sus estudiantes.
 
-Ubicada en el corazón de Barcelona, la Escuela 42 proporciona un entorno inspirador y está equipada con la última tecnología, incluyendo ordenadores Mac de última generación, para que los estudiantes puedan sumergirse por completo en el mundo de la programación.
+Ubicada en muchos puntos del mundo, 42 proporciona un entorno inspirador y está equipada con la última tecnología, incluyendo ordenadores Mac de última generación, para que los estudiantes puedan sumergirse por completo en el mundo de la programación.
 
-En la Escuela 42, se pone un fuerte énfasis en la escritura correcta del código y en el desarrollo de habilidades prácticas que son altamente valoradas en la industria tecnológica. Los estudiantes aprenden a través de la práctica constante, resolviendo desafíos y colaborando con sus compañeros en proyectos significativos.
+En la Escuela 42, se pone un fuerte énfasis en la escritura correcta del código y en el desarrollo de habilidades soft skills que son altamente valoradas en la industria tecnológica. Los estudiantes aprenden a través de la práctica constante, resolviendo desafíos y colaborando con sus compañeros en proyectos significativos.
 
 ## Contenido
 
